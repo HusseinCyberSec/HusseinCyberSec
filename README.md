@@ -14,7 +14,7 @@ Seeking a role in cybersecurity where I can apply my hands-on GSOC experience in
 |-----------------------------------------------|----------------------------|
 | Wireshark Network Traffic Analysis Lab          | <a href="https://github.com/HusseinCyberSec/Analyze-your-first-packet-with-Wireshark">Wireshark Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+
 
 
 ## Tools
