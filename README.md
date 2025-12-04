@@ -8,7 +8,7 @@ A GSOC professional based in Seattle with a strong background in real-time incid
 Seeking a role in cybersecurity where I can apply my hands-on GSOC experience in incident response, intelligence analysis, and system monitoring while advancing my technical skills and working toward Security+ certification.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,7 +18,6 @@ Seeking a role in cybersecurity where I can apply my hands-on GSOC experience in
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
