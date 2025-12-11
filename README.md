@@ -3,13 +3,11 @@
 
 
 
-I’m a GSOC professional based in Seattle with real-world experience in incident monitoring, threat analysis, and coordinating security responses in fast-moving situations. I recently graduated and have always had a strong interest in technology, which naturally pushed me toward cybersecurity.
+I’m a GSOC professional based in Seattle with hands-on experience in incident monitoring, threat analysis, and coordinating security responses in fast-moving situations. I recently graduated and have always been drawn to technology, which naturally led me toward cybersecurity.
 
-In my day-to-day work, I review and validate security events, gather information from different tools and data sources, and make sure responders and leadership get clear, accurate updates. I’ve worked with enterprise environments, access control systems, reporting tools, and risk identification processes—giving me a solid understanding of how security operations run behind the scenes.
+In my current role, I review and validate security events, gather information from multiple tools and data sources, and ensure that responders and leadership receive clear and accurate updates. I have worked with enterprise environments, access control systems, reporting tools, and risk identification processes, which has given me a strong understanding of how security operations function behind the scenes.
 
-I’m currently studying for Security+ to deepen my technical foundation and move further into SOC and cybersecurity roles. I’m big on accuracy, staying calm under pressure, and constantly improving my skills. My goal is to continue growing into more advanced security positions while building projects that showcase my progress here on GitHub.
-
-Seeking a role in cybersecurity where I can apply my hands-on GSOC experience in incident response, intelligence analysis, and system monitoring while advancing my technical skills and working toward Security+ certification.
+I’m currently preparing for the Security+ exam to build a deeper technical foundation as I move further into SOC and cybersecurity roles. I value accuracy, staying calm under pressure, and continuously improving my skills. My goal is to keep growing in the security field while building projects that reflect my progress here on GitHub.
 
 ## Skills
 
