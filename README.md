@@ -3,7 +3,11 @@
 
 
 
-A GSOC professional based in Seattle with a strong background in real-time incident monitoring, threat analysis, and high-pressure security coordination. I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. I specialize in validating security events, consolidating intelligence from multiple data sources, and delivering fast, accurate communication to responders and leadership teams. With experience across enterprise environments, access control systems, incident reporting, and risk identification, I bring a sharp operational mindset backed by growing cybersecurity expertise and ongoing Security+ preparation. Driven by precision, resilience, and continuous improvement, I continue to build my technical skill set while expanding into deeper cybersecurity roles.
+I’m a GSOC professional based in Seattle with real-world experience in incident monitoring, threat analysis, and coordinating security responses in fast-moving situations. I recently graduated and have always had a strong interest in technology, which naturally pushed me toward cybersecurity.
+
+In my day-to-day work, I review and validate security events, gather information from different tools and data sources, and make sure responders and leadership get clear, accurate updates. I’ve worked with enterprise environments, access control systems, reporting tools, and risk identification processes—giving me a solid understanding of how security operations run behind the scenes.
+
+I’m currently studying for Security+ to deepen my technical foundation and move further into SOC and cybersecurity roles. I’m big on accuracy, staying calm under pressure, and constantly improving my skills. My goal is to continue growing into more advanced security positions while building projects that showcase my progress here on GitHub.
 
 Seeking a role in cybersecurity where I can apply my hands-on GSOC experience in incident response, intelligence analysis, and system monitoring while advancing my technical skills and working toward Security+ certification.
 
