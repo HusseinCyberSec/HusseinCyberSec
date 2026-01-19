@@ -2,10 +2,7 @@
 <a href="https://linkedin.com/in/hussein-m-172312370/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-
-I’m a GSOC professional based in Seattle with hands-on experience in incident monitoring, threat analysis, and coordinating security responses in fast-moving situations. I recently graduated and have always been drawn to technology, which naturally led me toward cybersecurity.
-
-In my current role, I review and validate security events, gather information from multiple tools and data sources, and ensure that responders and leadership receive clear and accurate updates. I have worked with enterprise environments, access control systems, reporting tools, and risk identification processes, which has given me a strong understanding of how security operations function behind the scenes.
+I’m a developer who enjoys building practical solutions, learning new technologies, and continuously improving my craft. I use GitHub to share projects I’m working on, experiment with ideas, and collaborate with others. Always open to feedback, contributions, and new opportunities to grow.
 
 I’m currently preparing for the Security+ exam to build a deeper technical foundation as I move further into SOC and cybersecurity roles. I value accuracy, staying calm under pressure, and continuously improving my skills. My goal is to keep growing in the security field while building projects that reflect my progress here on GitHub.
 
