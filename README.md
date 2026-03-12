@@ -2,9 +2,8 @@
 <a href="https://linkedin.com/in/hussein-m-172312370/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I’m a developer who enjoys building practical solutions, learning new technologies, and continuously improving my craft. I use GitHub to share projects I’m working on, experiment with ideas, and collaborate with others. Always open to feedback, contributions, and new opportunities to grow.
-
-I’m currently preparing for the Security+ exam to build a deeper technical foundation as I move further into SOC and cybersecurity roles. I value accuracy, staying calm under pressure, and continuously improving my skills. My goal is to keep growing in the security field while building projects that reflect my progress here on GitHub.
+Security operations professional based in Seattle, WA with 4+ years of experience in GSOC monitoring, incident response, and access control. I currently work as a GSOC Operator at Allied Universal, where I triage alarms, coordinate emergency responses, and document incidents in real-time 24/7 environments.
+I hold a B.S. in Information Technology from the University of Washington Tacoma (June 2025) and have hands-on IT experience managing Active Directory and providing Tier 1/2 support. I'm now deepening my technical cybersecurity skills — building home labs, studying for CompTIA Security+, and working toward a SOC Analyst role where I can combine my operational security background with blue team technical skills.
 
 ## Skills
 
@@ -13,7 +12,7 @@ I’m currently preparing for the Security+ exam to build a deeper technical fou
 |-----------------------------------------------|----------------------------|
 | Wireshark Network Traffic Analysis Lab          | <a href="https://github.com/HusseinCyberSec/Analyze-your-first-packet-with-Wireshark">Wireshark Lab</a>|
 | Suricata IDS Traffic Analysis & Rule Creation Lab | <a href="https://github.com/HusseinCyberSec/Suricata-Lab">Detection Lab</a>|
-
+| Active Directory Home Lab | <a href="https://github.com/HusseinCyberSec/Active-Directory-Home-Lab">Home Lab</a>|
 
 
 ## Tools
