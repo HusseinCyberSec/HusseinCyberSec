@@ -13,7 +13,7 @@ I hold a B.S. in Information Technology from the University of Washington Tacoma
 | Wireshark Network Traffic Analysis Lab          | <a href="https://github.com/HusseinCyberSec/Analyze-your-first-packet-with-Wireshark">Wireshark Lab</a>|
 | Suricata IDS Traffic Analysis & Rule Creation Lab | <a href="https://github.com/HusseinCyberSec/Suricata-Lab">Detection Lab</a>|
 | Active Directory Home Lab | <a href="https://github.com/HusseinCyberSec/Active-Directory-Home-Lab">Home Lab</a>|
-| Active Directory Home Lab TryHackMe | <a href="https://github.com/HusseinCyberSec/active-directory-thm-lab">TryHackMe Active Direcotry</a>|
+| Active Directory Home Lab TryHackMe | <a href="https://github.com/HusseinCyberSec/active-directory-thm-lab">TryHackMe Active Directory</a>|
 
 ## Tools
 
